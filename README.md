@@ -1,2 +1,3 @@
 # Python
-This is some basic Python codes looks like
+This is how it looks like when you study Python at Hanoi University of Science and Technology
+
